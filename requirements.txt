@@ -1,4 +1,4 @@
-textwrap==3.8.8
+textwrap
 pybaseball==2.2.1
 pandas==1.2.4
 matplotlib==3.3.4
