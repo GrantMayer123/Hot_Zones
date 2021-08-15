@@ -1,0 +1,7 @@
+textwrap==3.8.8
+pybaseball==2.2.1
+pandas==1.2.4
+matplotlib==3.3.4
+sklearn==0.24.1
+ipywidgets==7.6.3
+IPython==7.22.0
